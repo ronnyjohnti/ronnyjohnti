@@ -13,8 +13,8 @@ Here, you will found my best projects developed in my studies and from ideas. ğŸ
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a target="_blank" href="https://codepen.io/ronnyjohnti">
-  <img src="https://raw.githubusercontent.com/ronnyjohnti/mediahub/main/codepen-shield.webp">  
+  <img src="https://raw.githubusercontent.com/ronnyjohnti/mediahub/main/codepen-shield.webp" height=28>  
 </a>
 <a target="_blank" href="https://codesandbox.io/u/ronnyjohnti">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.owler.com%2Fcompany%2Fcodesandbox&psig=AOvVaw1ReUGLlUW4LLGSVNm8NG8A&ust=1623084139013000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjJv9y5g_ECFQAAAAAdAAAAABAD">  
+  <img src="https://image4.owler.com/logo/codesandbox_owler_20190520_073046_original.png" height=28>  
 </a>
