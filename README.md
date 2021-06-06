@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Ronny John. I've been studying computer programming since 2018. I love programming :heart.
+My Name is Ronny John. I've been studying computer programming since 2018. I love programming ❤️.
 It's my way to solve problems and create personal tools for study and work.
 
 Here, you will found my best projects developed in my studies and from ideas. 📔 💡
