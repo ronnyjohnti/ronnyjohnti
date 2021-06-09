@@ -22,8 +22,8 @@ Here, you will found my best projects developed in my studies and from ideas. ğŸ
 
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnyjohnti&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronnyjohnti&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnyjohnti&show_icons=true&theme=chartreuse-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronnyjohnti&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
 </a>
 
 <br><br>
