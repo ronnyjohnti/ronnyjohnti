@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 My Name is Ronny John. I've been studying computer programming since 2018. I love programming ❤️.
 It's my way to solve problems and create personal tools for study and work.
 
 Here, you will found my best projects developed in my studies and from ideas. 📔 💡
 
-#### My Contacts and Network ✉️
+## My Contacts and Network ✉️
 <a target="_blank" href="https://www.linkedin.com/in/ronny-john-590446176/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -22,8 +22,8 @@ Here, you will found my best projects developed in my studies and from ideas. �
 
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronnyjohnti&show_icons=true&theme=chartreuse-dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronnyjohnti&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronnyjohnti&show_icons=true&theme=chartreuse-dark" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronnyjohnti&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
 </a>
 
 <br><br>
