@@ -17,8 +17,8 @@ Here, you will found my best projects developed in my studies and from ideas. ğŸ
 </a-->
 <!--a target="_blank" href="https://codesandbox.io/u/ronnyjohnti">
   <img src="https://image4.owler.com/logo/codesandbox_owler_20190520_073046_original.png" height=28>  
-</a>
-<br-->
+</a-->
+<br>
 
 
 <a href="https://github.com/AVS1508">
