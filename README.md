@@ -25,6 +25,3 @@ Here, you will found my best projects developed in my studies and from ideas. ğŸ
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronnyjohnti&show_icons=true&theme=chartreuse-dark" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronnyjohnti&theme=chartreuse-dark&layout=compact&exclude_lang=java+r" />
 </a>
-
-<br><br>
-<i>Sorry for English! I'm learning.</i>
