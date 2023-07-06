@@ -1,9 +1,14 @@
 # Hi there 👋
 
-My Name is Ronny John. I've been studying computer programming since 2018. I love programming ❤️.
-It's my way to solve problems and create personal tools for study and work.
-
-Here, you will found my best projects developed in my studies and from ideas. 📔 💡
+<div>
+ <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+ <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</div>
 
 ## My Contacts and Network ✉️
 <a target="_blank" href="https://www.linkedin.com/in/ronny-john-590446176/">
