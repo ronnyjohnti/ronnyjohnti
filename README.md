@@ -20,7 +20,7 @@
 <a target="_blank" href="https://replit.com/@ronnyjohnti" style="background:#fff">
   <img src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height=28 />
 </a>
-<a target="_blank" href="https://ronnyjohnti.dev" style="background-color:#fff">
+<a target="_blank" href="https://ronnyjohnti.dev/" style="background-color:#fff">
   <img src="https://github.com/ronnyjohnti/ronnyjohnti/assets/42920699/9712e995-ac3b-48f8-ae97-a16263cc56a9" height=28/>
 </a>
 <!--a target="_blank" href="https://codesandbox.io/u/ronnyjohnti">
