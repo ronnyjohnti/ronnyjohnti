@@ -17,9 +17,9 @@
 <a target="_blank" href="mailto:ronnyjohnti@gmail.com">
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a target="_blank" href="https://replit.com/@ronnyjohnti" style="background:#fff">
+<!-- <a target="_blank" href="https://replit.com/@ronnyjohnti" style="background:#fff">
   <img src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height=28 />
-</a>
+</a> -->
 <a target="_blank" href="https://ronnyjohnti.dev" style="background-color:#fff">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/42920699/259528134-9712e995-ac3b-48f8-ae97-a16263cc56a9.png" height=28 />
 </a>
