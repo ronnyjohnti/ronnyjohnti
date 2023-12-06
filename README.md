@@ -11,7 +11,7 @@
 </div>
 
 ## My Contacts and Network ✉️
-<a target="_blank" href="https://www.linkedin.com/in/ronny-john-590446176/">
+<a target="_blank" href="https://www.linkedin.com/in/ronnyjohnti/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:ronnyjohnti@gmail.com">
